@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2515ede6.chunk.css",
-    "main.js": "/static/js/main.d67c4b5a.chunk.js",
-    "main.js.map": "/static/js/main.d67c4b5a.chunk.js.map",
+    "main.css": "/static/css/main.a22c4f78.chunk.css",
+    "main.js": "/static/js/main.7902b9ac.chunk.js",
+    "main.js.map": "/static/js/main.7902b9ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.00348b0f.js",
     "runtime-main.js.map": "/static/js/runtime-main.00348b0f.js.map",
     "static/js/2.b3b1bb37.chunk.js": "/static/js/2.b3b1bb37.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.2515ede6.chunk.css.map": "/static/css/main.2515ede6.chunk.css.map",
+    "static/css/main.a22c4f78.chunk.css.map": "/static/css/main.a22c4f78.chunk.css.map",
     "static/js/2.b3b1bb37.chunk.js.LICENSE.txt": "/static/js/2.b3b1bb37.chunk.js.LICENSE.txt",
     "static/media/insurance.cf607619.svg": "/static/media/insurance.cf607619.svg",
     "static/media/payment-img.c700b66c.png": "/static/media/payment-img.c700b66c.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.00348b0f.js",
     "static/js/2.b3b1bb37.chunk.js",
-    "static/css/main.2515ede6.chunk.css",
-    "static/js/main.d67c4b5a.chunk.js"
+    "static/css/main.a22c4f78.chunk.css",
+    "static/js/main.7902b9ac.chunk.js"
   ]
 }
