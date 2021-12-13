@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.78797d17.chunk.css",
-    "main.js": "/static/js/main.7d90cb3b.chunk.js",
-    "main.js.map": "/static/js/main.7d90cb3b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c517f0cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c517f0cc.js.map",
-    "static/js/2.07d58827.chunk.js": "/static/js/2.07d58827.chunk.js",
-    "static/js/2.07d58827.chunk.js.map": "/static/js/2.07d58827.chunk.js.map",
-    "static/js/3.df03b6f4.chunk.js": "/static/js/3.df03b6f4.chunk.js",
-    "static/js/3.df03b6f4.chunk.js.map": "/static/js/3.df03b6f4.chunk.js.map",
+    "main.css": "/static/css/main.225db973.chunk.css",
+    "main.js": "/static/js/main.e377523d.chunk.js",
+    "main.js.map": "/static/js/main.e377523d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1f59e787.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1f59e787.js.map",
+    "static/js/2.60dd10bf.chunk.js": "/static/js/2.60dd10bf.chunk.js",
+    "static/js/2.60dd10bf.chunk.js.map": "/static/js/2.60dd10bf.chunk.js.map",
+    "static/js/3.0c37a46a.chunk.js": "/static/js/3.0c37a46a.chunk.js",
+    "static/js/3.0c37a46a.chunk.js.map": "/static/js/3.0c37a46a.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.78797d17.chunk.css.map": "/static/css/main.78797d17.chunk.css.map",
-    "static/js/2.07d58827.chunk.js.LICENSE.txt": "/static/js/2.07d58827.chunk.js.LICENSE.txt",
+    "static/css/main.225db973.chunk.css.map": "/static/css/main.225db973.chunk.css.map",
+    "static/js/2.60dd10bf.chunk.js.LICENSE.txt": "/static/js/2.60dd10bf.chunk.js.LICENSE.txt",
+    "static/media/index.less": "/static/media/index.933df54b.less",
     "static/media/insurance.cf607619.svg": "/static/media/insurance.cf607619.svg",
     "static/media/payment-img.c700b66c.png": "/static/media/payment-img.c700b66c.png",
     "static/media/shield.014d2897.svg": "/static/media/shield.014d2897.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c517f0cc.js",
-    "static/js/2.07d58827.chunk.js",
-    "static/css/main.78797d17.chunk.css",
-    "static/js/main.7d90cb3b.chunk.js"
+    "static/js/runtime-main.1f59e787.js",
+    "static/js/2.60dd10bf.chunk.js",
+    "static/css/main.225db973.chunk.css",
+    "static/js/main.e377523d.chunk.js"
   ]
 }
