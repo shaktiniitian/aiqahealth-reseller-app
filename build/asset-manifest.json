@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.225db973.chunk.css",
-    "main.js": "/static/js/main.e377523d.chunk.js",
-    "main.js.map": "/static/js/main.e377523d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1f59e787.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1f59e787.js.map",
-    "static/js/2.60dd10bf.chunk.js": "/static/js/2.60dd10bf.chunk.js",
-    "static/js/2.60dd10bf.chunk.js.map": "/static/js/2.60dd10bf.chunk.js.map",
-    "static/js/3.0c37a46a.chunk.js": "/static/js/3.0c37a46a.chunk.js",
-    "static/js/3.0c37a46a.chunk.js.map": "/static/js/3.0c37a46a.chunk.js.map",
+    "main.css": "/static/css/main.35e9118e.chunk.css",
+    "main.js": "/static/js/main.a822c2e7.chunk.js",
+    "main.js.map": "/static/js/main.a822c2e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8ebfe54.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8ebfe54.js.map",
+    "static/js/2.bddd3eab.chunk.js": "/static/js/2.bddd3eab.chunk.js",
+    "static/js/2.bddd3eab.chunk.js.map": "/static/js/2.bddd3eab.chunk.js.map",
+    "static/js/3.3b075d16.chunk.js": "/static/js/3.3b075d16.chunk.js",
+    "static/js/3.3b075d16.chunk.js.map": "/static/js/3.3b075d16.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.225db973.chunk.css.map": "/static/css/main.225db973.chunk.css.map",
-    "static/js/2.60dd10bf.chunk.js.LICENSE.txt": "/static/js/2.60dd10bf.chunk.js.LICENSE.txt",
+    "static/css/main.35e9118e.chunk.css.map": "/static/css/main.35e9118e.chunk.css.map",
+    "static/js/2.bddd3eab.chunk.js.LICENSE.txt": "/static/js/2.bddd3eab.chunk.js.LICENSE.txt",
+    "static/media/greenTick.0585cc86.svg": "/static/media/greenTick.0585cc86.svg",
+    "static/media/inactive_icon.364b162c.png": "/static/media/inactive_icon.364b162c.png",
     "static/media/index.less": "/static/media/index.933df54b.less",
     "static/media/insurance.cf607619.svg": "/static/media/insurance.cf607619.svg",
     "static/media/payment-img.c700b66c.png": "/static/media/payment-img.c700b66c.png",
-    "static/media/shield.014d2897.svg": "/static/media/shield.014d2897.svg"
+    "static/media/shield.014d2897.svg": "/static/media/shield.014d2897.svg",
+    "static/media/submitImage.6b180994.svg": "/static/media/submitImage.6b180994.svg",
+    "static/media/waitingHourglass.dc5ebd6c.svg": "/static/media/waitingHourglass.dc5ebd6c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f59e787.js",
-    "static/js/2.60dd10bf.chunk.js",
-    "static/css/main.225db973.chunk.css",
-    "static/js/main.e377523d.chunk.js"
+    "static/js/runtime-main.c8ebfe54.js",
+    "static/js/2.bddd3eab.chunk.js",
+    "static/css/main.35e9118e.chunk.css",
+    "static/js/main.a822c2e7.chunk.js"
   ]
 }
