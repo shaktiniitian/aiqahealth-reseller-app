@@ -1,35 +1,36 @@
 {
   "files": {
     "main.css": "/static/css/main.7999d713.chunk.css",
-    "main.js": "/static/js/main.f543d19d.chunk.js",
-    "main.js.map": "/static/js/main.f543d19d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.85ef0739.js",
-    "runtime-main.js.map": "/static/js/runtime-main.85ef0739.js.map",
+    "main.js": "/static/js/main.79bc2402.chunk.js",
+    "main.js.map": "/static/js/main.79bc2402.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c9478136.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c9478136.js.map",
     "static/css/2.123f092d.chunk.css": "/static/css/2.123f092d.chunk.css",
-    "static/js/2.1b3ddbcf.chunk.js": "/static/js/2.1b3ddbcf.chunk.js",
-    "static/js/2.1b3ddbcf.chunk.js.map": "/static/js/2.1b3ddbcf.chunk.js.map",
-    "static/js/3.9d92a5ec.chunk.js": "/static/js/3.9d92a5ec.chunk.js",
-    "static/js/3.9d92a5ec.chunk.js.map": "/static/js/3.9d92a5ec.chunk.js.map",
+    "static/js/2.18061a7f.chunk.js": "/static/js/2.18061a7f.chunk.js",
+    "static/js/2.18061a7f.chunk.js.map": "/static/js/2.18061a7f.chunk.js.map",
+    "static/js/3.6409e84f.chunk.js": "/static/js/3.6409e84f.chunk.js",
+    "static/js/3.6409e84f.chunk.js.map": "/static/js/3.6409e84f.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.123f092d.chunk.css.map": "/static/css/2.123f092d.chunk.css.map",
     "static/css/main.7999d713.chunk.css.map": "/static/css/main.7999d713.chunk.css.map",
-    "static/js/2.1b3ddbcf.chunk.js.LICENSE.txt": "/static/js/2.1b3ddbcf.chunk.js.LICENSE.txt",
+    "static/js/2.18061a7f.chunk.js.LICENSE.txt": "/static/js/2.18061a7f.chunk.js.LICENSE.txt",
     "static/media/greenTick.0585cc86.svg": "/static/media/greenTick.0585cc86.svg",
     "static/media/inactive_icon.364b162c.png": "/static/media/inactive_icon.364b162c.png",
     "static/media/index.less": "/static/media/index.933df54b.less",
     "static/media/insurance.cf607619.svg": "/static/media/insurance.cf607619.svg",
     "static/media/payment-img.c700b66c.png": "/static/media/payment-img.c700b66c.png",
+    "static/media/secure-(personal-accident-insurance-product)---claim-form.de51f3e4.pdf": "/static/media/secure-(personal-accident-insurance-product)---claim-form.de51f3e4.pdf",
     "static/media/shield.014d2897.svg": "/static/media/shield.014d2897.svg",
     "static/media/submitImage.6b180994.svg": "/static/media/submitImage.6b180994.svg",
     "static/media/waitingHourglass.dc5ebd6c.svg": "/static/media/waitingHourglass.dc5ebd6c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85ef0739.js",
+    "static/js/runtime-main.c9478136.js",
     "static/css/2.123f092d.chunk.css",
-    "static/js/2.1b3ddbcf.chunk.js",
+    "static/js/2.18061a7f.chunk.js",
     "static/css/main.7999d713.chunk.css",
-    "static/js/main.f543d19d.chunk.js"
+    "static/js/main.79bc2402.chunk.js"
   ]
 }
