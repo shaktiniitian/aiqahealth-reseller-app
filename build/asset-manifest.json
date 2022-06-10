@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.5d1187d7.chunk.css",
-    "main.js": "/static/js/main.f2867347.chunk.js",
-    "main.js.map": "/static/js/main.f2867347.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.62a58e5d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.62a58e5d.js.map",
+    "main.js": "/static/js/main.32fe2c16.chunk.js",
+    "main.js.map": "/static/js/main.32fe2c16.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b2bd485.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b2bd485.js.map",
     "static/css/2.123f092d.chunk.css": "/static/css/2.123f092d.chunk.css",
-    "static/js/2.b93e37a9.chunk.js": "/static/js/2.b93e37a9.chunk.js",
-    "static/js/2.b93e37a9.chunk.js.map": "/static/js/2.b93e37a9.chunk.js.map",
-    "static/js/3.b9c0c4b0.chunk.js": "/static/js/3.b9c0c4b0.chunk.js",
-    "static/js/3.b9c0c4b0.chunk.js.map": "/static/js/3.b9c0c4b0.chunk.js.map",
+    "static/js/2.26592b3e.chunk.js": "/static/js/2.26592b3e.chunk.js",
+    "static/js/2.26592b3e.chunk.js.map": "/static/js/2.26592b3e.chunk.js.map",
+    "static/js/3.cff9d993.chunk.js": "/static/js/3.cff9d993.chunk.js",
+    "static/js/3.cff9d993.chunk.js.map": "/static/js/3.cff9d993.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.123f092d.chunk.css.map": "/static/css/2.123f092d.chunk.css.map",
     "static/css/main.5d1187d7.chunk.css.map": "/static/css/main.5d1187d7.chunk.css.map",
-    "static/js/2.b93e37a9.chunk.js.LICENSE.txt": "/static/js/2.b93e37a9.chunk.js.LICENSE.txt",
+    "static/js/2.26592b3e.chunk.js.LICENSE.txt": "/static/js/2.26592b3e.chunk.js.LICENSE.txt",
     "static/media/greenTick.0585cc86.svg": "/static/media/greenTick.0585cc86.svg",
     "static/media/inactive_icon.364b162c.png": "/static/media/inactive_icon.364b162c.png",
     "static/media/index.less": "/static/media/index.933df54b.less",
@@ -27,10 +27,10 @@
     "static/media/waitingHourglass.dc5ebd6c.svg": "/static/media/waitingHourglass.dc5ebd6c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62a58e5d.js",
+    "static/js/runtime-main.8b2bd485.js",
     "static/css/2.123f092d.chunk.css",
-    "static/js/2.b93e37a9.chunk.js",
+    "static/js/2.26592b3e.chunk.js",
     "static/css/main.5d1187d7.chunk.css",
-    "static/js/main.f2867347.chunk.js"
+    "static/js/main.32fe2c16.chunk.js"
   ]
 }
