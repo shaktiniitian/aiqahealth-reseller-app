@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.dfd7e439.chunk.css",
-    "main.js": "/static/js/main.46ebf8bb.chunk.js",
-    "main.js.map": "/static/js/main.46ebf8bb.chunk.js.map",
+    "main.js": "/static/js/main.04d0817e.chunk.js",
+    "main.js.map": "/static/js/main.04d0817e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9a867fc7.js",
     "runtime-main.js.map": "/static/js/runtime-main.9a867fc7.js.map",
     "static/css/2.123f092d.chunk.css": "/static/css/2.123f092d.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/index.less": "/static/media/index.933df54b.less",
     "static/media/insurance.cf607619.svg": "/static/media/insurance.cf607619.svg",
     "static/media/payment-img.c700b66c.png": "/static/media/payment-img.c700b66c.png",
-    "static/media/sampleFile.7045fd33.xlsx": "/static/media/sampleFile.7045fd33.xlsx",
+    "static/media/sampleFile.4fe9a6bb.xlsx": "/static/media/sampleFile.4fe9a6bb.xlsx",
     "static/media/secure-(personal-accident-insurance-product)---claim-form.de51f3e4.pdf": "/static/media/secure-(personal-accident-insurance-product)---claim-form.de51f3e4.pdf",
     "static/media/shield.014d2897.svg": "/static/media/shield.014d2897.svg",
     "static/media/submitImage.6b180994.svg": "/static/media/submitImage.6b180994.svg",
@@ -32,6 +32,6 @@
     "static/css/2.123f092d.chunk.css",
     "static/js/2.c6a9bd7f.chunk.js",
     "static/css/main.dfd7e439.chunk.css",
-    "static/js/main.46ebf8bb.chunk.js"
+    "static/js/main.04d0817e.chunk.js"
   ]
 }
