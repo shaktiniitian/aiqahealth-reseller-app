@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b58f587.chunk.css",
-    "main.js": "/static/js/main.12342b9b.chunk.js",
-    "main.js.map": "/static/js/main.12342b9b.chunk.js.map",
+    "main.css": "/static/css/main.fdd2eed4.chunk.css",
+    "main.js": "/static/js/main.d916a40d.chunk.js",
+    "main.js.map": "/static/js/main.d916a40d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8eb674ea.js",
     "runtime-main.js.map": "/static/js/runtime-main.8eb674ea.js.map",
     "static/css/2.123f092d.chunk.css": "/static/css/2.123f092d.chunk.css",
@@ -14,14 +14,14 @@
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.123f092d.chunk.css.map": "/static/css/2.123f092d.chunk.css.map",
-    "static/css/main.8b58f587.chunk.css.map": "/static/css/main.8b58f587.chunk.css.map",
+    "static/css/main.fdd2eed4.chunk.css.map": "/static/css/main.fdd2eed4.chunk.css.map",
     "static/js/2.f0d0c532.chunk.js.LICENSE.txt": "/static/js/2.f0d0c532.chunk.js.LICENSE.txt",
     "static/media/greenTick.0585cc86.svg": "/static/media/greenTick.0585cc86.svg",
     "static/media/inactive_icon.364b162c.png": "/static/media/inactive_icon.364b162c.png",
     "static/media/index.less": "/static/media/index.933df54b.less",
     "static/media/insurance.cf607619.svg": "/static/media/insurance.cf607619.svg",
     "static/media/payment-img.c700b66c.png": "/static/media/payment-img.c700b66c.png",
-    "static/media/sampleFile.67b70c84.xlsx": "/static/media/sampleFile.67b70c84.xlsx",
+    "static/media/samplefile.1d99e4a7.xlsx": "/static/media/samplefile.1d99e4a7.xlsx",
     "static/media/secure-(personal-accident-insurance-product)---claim-form.de51f3e4.pdf": "/static/media/secure-(personal-accident-insurance-product)---claim-form.de51f3e4.pdf",
     "static/media/shield.014d2897.svg": "/static/media/shield.014d2897.svg",
     "static/media/submitImage.6b180994.svg": "/static/media/submitImage.6b180994.svg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.8eb674ea.js",
     "static/css/2.123f092d.chunk.css",
     "static/js/2.f0d0c532.chunk.js",
-    "static/css/main.8b58f587.chunk.css",
-    "static/js/main.12342b9b.chunk.js"
+    "static/css/main.fdd2eed4.chunk.css",
+    "static/js/main.d916a40d.chunk.js"
   ]
 }
