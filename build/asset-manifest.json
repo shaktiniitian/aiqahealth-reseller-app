@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.f269b987.chunk.css",
-    "main.js": "/static/js/main.a3cc1591.chunk.js",
-    "main.js.map": "/static/js/main.a3cc1591.chunk.js.map",
+    "main.css": "/static/css/main.4a361d6f.chunk.css",
+    "main.js": "/static/js/main.cb37c3fa.chunk.js",
+    "main.js.map": "/static/js/main.cb37c3fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0d760596.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d760596.js.map",
     "static/css/2.123f092d.chunk.css": "/static/css/2.123f092d.chunk.css",
@@ -14,7 +14,7 @@
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.123f092d.chunk.css.map": "/static/css/2.123f092d.chunk.css.map",
-    "static/css/main.f269b987.chunk.css.map": "/static/css/main.f269b987.chunk.css.map",
+    "static/css/main.4a361d6f.chunk.css.map": "/static/css/main.4a361d6f.chunk.css.map",
     "static/js/2.2eeaf587.chunk.js.LICENSE.txt": "/static/js/2.2eeaf587.chunk.js.LICENSE.txt",
     "static/media/greenTick.0585cc86.svg": "/static/media/greenTick.0585cc86.svg",
     "static/media/inactive_icon.364b162c.png": "/static/media/inactive_icon.364b162c.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.0d760596.js",
     "static/css/2.123f092d.chunk.css",
     "static/js/2.2eeaf587.chunk.js",
-    "static/css/main.f269b987.chunk.css",
-    "static/js/main.a3cc1591.chunk.js"
+    "static/css/main.4a361d6f.chunk.css",
+    "static/js/main.cb37c3fa.chunk.js"
   ]
 }
